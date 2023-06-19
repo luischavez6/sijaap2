@@ -1,0 +1,21 @@
+{
+    "short-name":"JAAP",
+    "name":"JAAP SAN NICOLAS",
+
+"start_url":"index.html",
+"background_color":"#3498db",
+"display":"standalone",
+"orientation":"portrait",
+"icons": [
+    {
+      "src": "img/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
